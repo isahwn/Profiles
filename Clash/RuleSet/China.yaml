@@ -70,3 +70,6 @@ payload:
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,totheglory.im
+  # Custom
+  - DOMAIN-SUFFIX,lizhi.io
+  - DOMAIN-SUFFIX,shimo.im
